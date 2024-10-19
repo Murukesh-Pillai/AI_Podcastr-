@@ -98,9 +98,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+#Wireframe 
 
-<img src="![Screenshot 2024-10-19 at 2 21 18 AM](https://github.com/user-attachments/assets/7d34aa30-d0c9-40f8-b9f8-6a7903852116)
-" alt="Wireframe">
+![Screenshot 2024-10-19 at 2 21 18 AM](https://github.com/user-attachments/assets/7d34aa30-d0c9-40f8-b9f8-6a7903852116)
 
-
-#
