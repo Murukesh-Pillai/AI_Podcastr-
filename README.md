@@ -1,5 +1,10 @@
 <h3 align="center">AI Podcast Platform</h3>
 
+<h4 align-"center">Wireframe</h4>
+
+![Screenshot 2024-10-19 at 2 21 18 AM](https://github.com/user-attachments/assets/7d34aa30-d0c9-40f8-b9f8-6a7903852116)
+
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -97,8 +102,4 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-#Wireframe 
-
-![Screenshot 2024-10-19 at 2 21 18 AM](https://github.com/user-attachments/assets/7d34aa30-d0c9-40f8-b9f8-6a7903852116)
 
