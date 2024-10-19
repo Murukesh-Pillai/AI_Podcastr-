@@ -98,8 +98,9 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
+
+<img src="![Screenshot 2024-10-19 at 2 21 18 AM](https://github.com/user-attachments/assets/7d34aa30-d0c9-40f8-b9f8-6a7903852116)
+" alt="Wireframe">
+
 
 #
