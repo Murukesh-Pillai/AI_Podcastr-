@@ -1,6 +1,6 @@
 <h3 align="center">AI Podcast Platform</h3>
 
-<h4 align-"center">Wireframe</h4>
+<h4 align="center">Wireframe</h4>
 
 ![Screenshot 2024-10-19 at 2 21 18 AM](https://github.com/user-attachments/assets/7d34aa30-d0c9-40f8-b9f8-6a7903852116)
 
